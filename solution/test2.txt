@@ -1,0 +1,32 @@
+
+voici un Animal 
+voici un Mammifere 
+voici un Animal 
+voici un Animal 
+voici un Animal 
+voici un Animal 
+voici un Mammifere 
+faire compagnon Snoopy avec ...Milou
+faire compagnon Nemo avec ...Milou
+Miaou!
+Je suis Sylvester
+Je m'appelle: Sylvester
+...parole de Milou
+Je m'appelle: Milou
+Twit-Twit!
+Je m'appelle: Tweety
+blub blub!!
+Je m'appelle: Nemo
+mon compagnon est: Milou
+Wouaf-Wouaf!
+Je suis Snoopy
+Je m'appelle: Snoopy
+mon compagnon est: Milou
+adieu Mammifere Sylvester
+adieu Animal Sylvester
+adieu Animal Milou
+adieu Animal Tweety
+adieu Animal Nemo
+adieu Mammifere Snoopy
+adieu Animal Snoopy
+fin

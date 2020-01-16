@@ -1,0 +1,17 @@
+
+voici un Animal 
+voici un Animal 
+voici un Animal 
+voici un Animal 
+voici un Animal 
+Miaou! Je m'appelle: Sylvester
+...parole de Milou Je m'appelle: Milou
+Twit-Twit! Je m'appelle: Tweety
+blub blub!! Je m'appelle: Nemo
+Wouaf-Wouaf! Je m'appelle: Snoopy
+adieu Animal Sylvester
+adieu Animal Milou
+adieu Animal Tweety
+adieu Animal Nemo
+adieu Animal Snoopy
+fin
